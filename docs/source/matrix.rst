@@ -1,4 +1,4 @@
 Matrix Command
 ===============
 
- .. js:autofunction:: matrix
+ .. js:autofunction:: __matrix_doc_hook
